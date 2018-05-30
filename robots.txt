@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://assetsrw3f.pythonanywhere.com/sitemap.xml.gz
